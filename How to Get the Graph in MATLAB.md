@@ -4,15 +4,9 @@ In MATLAB, you can get a graph in several ways. This note will tell some signifi
 
 
 
-###### \*\*\*
-
-
-
 ### Method 1. Get from Command Window
 
 In this classical way, you can get a beautifully plotted graph with some commands executing.
-
-
 
 
 
@@ -27,8 +21,6 @@ If the signal is named like "v", you can set the name like "v\_data" for example
 After you checked the name of the block has changed through the procedure, now you can execute the simulation.
 
 When the simulation has done, you can move to the command window.
-
-
 
 
 
@@ -78,21 +70,13 @@ And do not forget to execute below command. If you do not do that, you cannot ex
 
 > close all
 
-
-
-###### \*\*\*
-
-
+###### 
 
 ### Method 2. Get at Simulink Directly
 
 This method is easy way to get a graph.
 
-
-
-###### \*\*\*
-
-
+###### 
 
 ### Option: Plot Several Curves in One Graph
 

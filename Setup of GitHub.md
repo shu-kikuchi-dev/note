@@ -11,10 +11,6 @@ This document will explain the good way to make GitHub repository that contain s
 
 
 
-### \*\*\*
-
-
-
 ## Section 1: Make Your Repository
 
 This section will introduce the robust way to create a local repository that synchronized to a remote repository.
@@ -183,10 +179,6 @@ In this section we introduced how to develop an synchronized remote-local reposi
 
 
 
-### \*\*\*
-
-
-
 ## Section 2: In Your Daily Works
 
 This section will explain what we put beside at the last of the previous section, that is how to update your environment(push and pull) in daily progress. This procedure is intended to do after you achieved developing of your environment.
@@ -258,12 +250,6 @@ Confirm the status: This will inform you what the branch are you working on, you
 > git fetch
 
 > git status
-
-
-
-
-
-### \*\*\*
 
 
 
