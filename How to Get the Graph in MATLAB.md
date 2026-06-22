@@ -52,9 +52,9 @@ the certain execution time.
 
 
 
-> v = out.v\_data;
+> v = out.v\\\_data;
 
-> F = out.F\_data;
+> F = out.F\\\_data;
 
 > t = out.tout;
 
@@ -124,9 +124,13 @@ When you achieved simulation for the first condition, you can go back to command
 
 
 
-In Command Window:
+##### In Command Window:
+
+In command window, you have to do the same thing as Method 1. This will plot the graph you simulated.
 
 
 
+And now, you will go back to Simulink field and try another condition. Then, move on to the command window to plot them with hold previous curve.
 
+When you tried all of conditions, you can save it with legends and other settings(e.g. axis labeling).
 
